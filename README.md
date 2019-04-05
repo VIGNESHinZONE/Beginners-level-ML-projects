@@ -10,3 +10,4 @@ Consist of of following projects
                     
 3) Time Series Analysis- Learnt to work with Time Series data by indexing them in Data frames and learnt about ARIMA model and
                         SARIMAX model.
+                        (A small problem with it, working on it)
