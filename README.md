@@ -1,5 +1,6 @@
 # Beginners-level-ML-projects
 A few elementary projects from where I had started with
+To veiw through the projects ,just go through the python notebook files
 Consist of of following projects
 
 1) Iris Dataset  - Got started with this project.
